@@ -1,0 +1,11 @@
+# local
+/.sh
+docker.sh
+push.sh
+make.sh
+
+compose.yml
+scratch.yml
+/stash
+*/pravite
+/vercel
