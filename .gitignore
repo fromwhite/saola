@@ -1,3 +1,7 @@
+.vscode
+
+*/Cargo.lock
+
 # local
 /.sh
 docker.sh
