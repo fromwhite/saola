@@ -1,6 +1,9 @@
 .vscode
 
-*/Cargo.lock
+# Added by cargo
+/target
+
+**/Cargo.lock
 
 # local
 /.sh
