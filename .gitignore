@@ -1,7 +1,7 @@
 .vscode
 
 # Added by cargo
-/target
+**/target
 
 **/Cargo.lock
 
@@ -16,3 +16,5 @@ scratch.yml
 /stash
 */pravite
 /vercel
+
+/bevy
